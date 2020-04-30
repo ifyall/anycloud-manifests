@@ -2,7 +2,7 @@
   <app>
     <name>AnyCloud MQTT Client</name>
     <id>mtb-example-anycloud-mqtt-client</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/mtb-example-anycloud-mqtt-client</uri>
+    <uri>https://github.com/cypresssemiconductorco/mtb-example-anycloud-mqtt-client</uri>
     <description><![CDATA[
     This code example demonstrates implementing an MQTT client using the MQTT client library for the family of Cypress connectivity devices. This library uses the AWS IoT Device SDK that includes an MQTT 3.1.1 client. 
     <br><br><b>License Disclaimer:</b><br><br>

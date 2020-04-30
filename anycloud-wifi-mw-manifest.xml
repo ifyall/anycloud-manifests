@@ -112,7 +112,7 @@
   <middleware>
     <name>LPA</name>
     <id>lpa</id>
-    <uri>https://github.com/cypresssemiconductorco/repo-staging/lpa</uri>
+    <uri>https://github.com/cypresssemiconductorco/lpa</uri>
     <desc>LPA is Low power assistant middleware library which provides easy way to configure and use low power features of Cypress devices.</desc>
     <category>WiFi Middleware libraries</category>
     <req_capabilities>psoc6 cyw43xxx wifi</req_capabilities>
