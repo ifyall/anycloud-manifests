@@ -77,7 +77,6 @@
         <commit>release-v2.0.0</commit>
         <desc>2.0.0 release</desc>
       </version>
-    <versions>
       <version>
         <num>Latest 1.X release</num>
         <commit>latest-v1.X</commit>
